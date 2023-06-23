@@ -31,7 +31,7 @@ public class welcome {
         String[] arr = {
             " 1. Display all the files",
             " 2. File operations",
-            " 3. Back to the previous menu"
+            " 3. Exit"
         };
         System.out.println("These are the following features available: ");
         for (int i = 0; i < arr.length; i++) {
